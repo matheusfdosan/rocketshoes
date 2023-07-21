@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio RocketShoes by Rocketseat</h1>
 
 <p align="center">
-Neste desafio você deverá desenvolver um mini e-commerce de calçados esportivos.
+  Aqui está um mini e-commerce de calçados esportivos.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/desafio-rocketshoes-rocketseat/).
+Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/rocketshoes/).
 
 ## 🔖 Layout
 
